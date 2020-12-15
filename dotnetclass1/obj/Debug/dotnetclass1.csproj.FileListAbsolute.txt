@@ -1,0 +1,12 @@
+E:\8th sem\dotnet\vs project\class 3\dotnetclass1\dotnetclass1\bin\dotnetclass1.dll.config
+E:\8th sem\dotnet\vs project\class 3\dotnetclass1\dotnetclass1\bin\dotnetclass1.dll
+E:\8th sem\dotnet\vs project\class 3\dotnetclass1\dotnetclass1\bin\dotnetclass1.pdb
+E:\8th sem\dotnet\vs project\class 3\dotnetclass1\dotnetclass1\obj\Debug\dotnetclass1.csprojResolveAssemblyReference.cache
+E:\8th sem\dotnet\vs project\class 3\dotnetclass1\dotnetclass1\obj\Debug\dotnetclass1.dll
+E:\8th sem\dotnet\vs project\class 3\dotnetclass1\dotnetclass1\obj\Debug\dotnetclass1.pdb
+D:\desktop files\DotNet\MyWebsite1\dotnetclass1\bin\dotnetclass1.dll.config
+D:\desktop files\DotNet\MyWebsite1\dotnetclass1\bin\dotnetclass1.dll
+D:\desktop files\DotNet\MyWebsite1\dotnetclass1\bin\dotnetclass1.pdb
+D:\desktop files\DotNet\MyWebsite1\dotnetclass1\obj\Debug\dotnetclass1.csprojResolveAssemblyReference.cache
+D:\desktop files\DotNet\MyWebsite1\dotnetclass1\obj\Debug\dotnetclass1.dll
+D:\desktop files\DotNet\MyWebsite1\dotnetclass1\obj\Debug\dotnetclass1.pdb
