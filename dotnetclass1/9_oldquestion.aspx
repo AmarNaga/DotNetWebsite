@@ -41,7 +41,7 @@
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder2" runat="server">
-    <div class="row ml-5 position-fixed" style="padding-top:50px;">
+    <div class="row ml-5 ">
              <div class="card text-white bg-secondary m-3 col-3" style="max-width: 18rem;">
               <div class="card-header">2015</div>
               <div class="card-body">

@@ -49,7 +49,10 @@
             <a class="nav-link active" id="nav-syllabus-tab" data-toggle="tab" href="#nav-syllabus" role="tab" aria-controls="nav-syllabus" aria-selected="true">Syllabus</a>
             <a class="nav-link" id="nav-question-tab" data-toggle="tab" href="#nav-question" role="tab" aria-controls="nav-question" aria-selected="false">Question</a>
             <a class="nav-link" id="nav-notes-tab" data-toggle="tab" href="#nav-notes" role="tab" aria-controls="nav-notes" aria-selected="false">Notes</a>
-         </div>
+            <a class="nav-link" id="nav-photos-tab" data-toggle="tab" href="#nav-photos" role="tab" aria-controls="nav-photos" aria-selected="false">Photos</a>
+            <a class="nav-link" id="nav-videos-tab" data-toggle="tab" href="#nav-videos" role="tab" aria-controls="nav-videos" aria-selected="false">Videos</a>
+
+              </div>
         </nav>
         <div class="tab-content" id="nav-tabContent">
           <div class="tab-pane fade show active" id="nav-syllabus" role="tabpanel" aria-labelledby="nav-syllabus-tab"> 
@@ -440,8 +443,55 @@
         </div>
       </div>
 
-          </div>
-        </div>
+          <div class="tab-pane fade" id="nav-photos" role="tabpanel" aria-labelledby="nav-photos-tab">
+            
+            <div class="p-3">
+                <div class="row">
+                    <div class="col-4">
+                        <img src="img/1_Overview/DotNet.png" class="img-thumbnail" />
+                    </div>
+
+                    <div class="col-4">
+
+                    </div>
+
+                    <div class="col-4">
+
+                    </div>
+                </div>
+                
+            </div>
+      </div>
+
+          <div class="tab-pane fade" id="nav-videos" role="tabpanel" aria-labelledby="nav-videos-tab">
+            
+            <div class="p-3">
+                <div class="row">
+                    <div class="col-4">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe width="949" height="534" src="https://www.youtube.com/embed/0W3GVxQsV0g?list=PLrp1NmQdla-fWpQay8XnwZPM-l73Sb7tv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="col-4">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe width="949" height="534" src="https://www.youtube.com/embed/A-3N_bM50HI?list=PLrp1NmQdla-fWpQay8XnwZPM-l73Sb7tv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+
+                    <div class="col-4">
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe width="949" height="534" src="https://www.youtube.com/embed/0u9k-kOR3KE?list=PLrp1NmQdla-fWpQay8XnwZPM-l73Sb7tv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+      </div>
+
+
+     </div>
+    </div>
 
   
 </asp:Content>
